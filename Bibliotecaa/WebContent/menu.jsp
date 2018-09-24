@@ -9,7 +9,7 @@
 <body>
 	<div>
 	<h3>Gerenciar Alunos <br /> </h3>
-	<a href = "/Biblioteca/formA.jsp">Cadastrar um novo aluno</a> <br />
+	<a href = "/Biblioteca/formA.jsp">Cadastrar um novo aluno:</a> <br />
 	<a href = "/Biblioteca/lista.jsp">Listar alunos cadastrados</a>
 	<br />
 	</div>
